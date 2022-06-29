@@ -1,0 +1,20 @@
+#video{
+    width:1120px;
+    height:630px;
+    border: none;
+}
+#schoollife {border:1px solid lightgrey;}
+#schoollife img {width:100%;}
+#schoollife h5, .schoollife_mainDiv p {margin:20px;}
+.movie_head {font-size:20px;
+padding:6px 22px;
+border-radius:10px;
+margin-bottom:15px;}
+.movie_head i {float:right;}
+.achievement_text span {color:orange;}
+#exani {height:10%;
+width:10%;}
+#enlace {height:15%;
+width:15%;}
+#planea {height:10%x;
+width:10%;}
